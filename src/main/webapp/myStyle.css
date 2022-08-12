@@ -1,0 +1,11 @@
+@charset "EUC-KR";
+* {margin:0; padding:0;}
+a { text-decoration:none;}
+body {font-family: '±¼¸²Ã¼';}
+header {background:lightblue;}
+menu {background:coral; padding:20px 0;}
+section {background:skyblue;}
+footer {padding:20px 0; background:blue; color:#fff;}
+#secCon {padding:25px 0 45px; }
+.tit {padding:25px 0 0 0;}
+.indexTxt {line-height:1.5;}
