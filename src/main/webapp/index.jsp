@@ -15,7 +15,7 @@
 		<jsp:include page="menu_header.jsp"/>
 	</menu>
 	<section>
-		<h2 align="center" class="tit">쇼핑몰 회원관리 프로그램</h2>
+		<h2 align="center" class="tit">쇼핑몰 회원관리 프로그램dd</h2>
 		<p class="indexTxt">
 			쇼핑몰 회원정보와 회원매출정보 데이터베이스를 구축하고
 			회원관리 프로그램을 작성하는 프로그램이다.<br/>
